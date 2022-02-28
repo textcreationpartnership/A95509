@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter sent by Mr. D.T. to Mr. John Vicars (Mr. Prynns second) in answer to his letter sent by him to Mr. John Goodwin.</title>
+            <author>D. T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644-1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95509</idno>
+            <idno type="STC">Wing T3A</idno>
+            <idno type="STC">ESTC R184818</idno>
+            <idno type="EEBO-CITATION">45578463</idno>
+            <idno type="OCLC">ocm 45578463</idno>
+            <idno type="VID">172377</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95509)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172377)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2627:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter sent by Mr. D.T. to Mr. John Vicars (Mr. Prynns second) in answer to his letter sent by him to Mr. John Goodwin.</title>
+                  <author>D. T.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1644 or 5?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated: February 3. 1644.</note>
+                  <note>Imperfect: tightly bound with loss of print at foot of page.</note>
+                  <note>Reproduction of original in the Jesus College (University of Cambridge) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goodwin, John, 1594?-1665. --  Innocency and truth triumphing together, or, The latter part of an answer to the back-part of a discourse, lately published by William Prynne Esquire, called, A full reply, &amp;c.</term>
+               <term>Prynne, William, 1600-1669.</term>
+               <term>Vicars, John, 1579 or 80-1652.</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Church polity.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172377:1"/>
+            <head>THE COPY OF A LETTER SENT By M<hi rend="sup">r.</hi> 
+               <hi>D. T.</hi> to M<hi rend="sup">r.</hi> 
+               <hi>John Vicars</hi> (M<hi rend="sup">r.</hi> 
+               <hi>Prynns</hi> ſecond) in Anſwer to his Letter ſent by him to M<hi rend="sup">r.</hi> 
+               <hi>John Goodwin.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <p>A righteous man hateth lying, <bibl>Prov. 13.5.</bibl>
+                  </p>
+               </q>
+               <q>
+                  <p>Righteouſneſſe keepeth him that is upright in the way, <bibl>
+                        <hi>Prov. 13.6.</hi>
+                     </bibl>
+                  </p>
+               </q>
+               <q>
+                  <p>Onely by pride commeth contention, but with the well adviſed is wiſdome, <bibl>
+                        <hi>Prov. 13.10.</hi>
+                     </bibl>
+                  </p>
+               </q>
+               <q>
+                  <p>Therefore thou art inexcuſable, O man, whoſoever thou art that judgeſt another, for wherein thou judgeſt another, thou condemneſt thy ſelfe, for thou that judgeſt doeſt the ſame things, <bibl>
+                        <hi>Rom. 2.1.</hi>
+                     </bibl>
+                  </p>
+               </q>
+            </epigraph>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>VVHether it was my good or hard happe to meet with your Letter directed and ſent to Mr. <hi>John Goodwin,</hi> I cannot eaſily determine: For though all manner of knowledge, either of perſons or things, bee in ſome kind or other beneficiall; it being an undoubted <hi>Maxime,</hi> that <hi>Verum &amp; Bonum convertuntur:</hi> yet ſome knowledge may be ſo circumſtantiated, that it may prove more burdenſome and offenſive to the party knowing, then commodious. I confeſſe from the reading of your L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes I have gained thus much, to ſay I know you: but this gaine hath occaſioned ſuch a conſiderable loſſe i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he things of my joy, that I doe even wiſh for my former ignorance, and could bee well contented, to have met with no other deſcription of your frame and temper, then what the promiſe of your countenance, and the report of your friends have made of you: Indeed it cannot but deduct ſomewhat from the comfort of a reaſonable man, to ſee one, whom (one would think) gray haires ſhould have taught the language of ſo<g ref="char:EOLhyphen"/>berneſſe, ſhooting with his tongue at rovers, and ſpeaking ſharpe and devouring words againſt perſons and things, which hee knows not. Sorry I am, that Mr. <hi>Vicars</hi> ſhould break the fair face of his reputation upon this ſtone, againſt which this beſotted world is daſhing it ſelfe in peeces from day to day. I have ſome hope that though your zeale to Mr. <hi>Prynns</hi> glory, did caſt you into ſuch an exſtaſie of paſſion, that you ſcarce knew what you writ; yet by this time you have pretty well recover'd your ſelfe againe: and leſt the ſenſe of your miſcarriage ſhould too much oppreſſe you, I give you to know that you are falne into ſoft and tender hands, and have diſcovered your nakedneſſe to ſuch onely, who rather pity, then deride it. For my part, I love not to diſport my ſelfe at the weakneſſe of any man, or to turne his folly into laughter; for what were this, but to reflect diſhonour upon the ſame nature, wherein hee partakes with my ſelfe. Rather, I could mourn over the vanities of your pen, and weep to ſee you ſo farre intoxicated, as to call the moſt injurious dealing one ſhall lightly meet with, by the name of candor and ingenuity. The truth is, you have ſo fouly berayed your paper with bold and untrue aſſertions, imputations, exprobrations, and ſuch like excrements, that I thought even for modeſty ſake to have drawn over them the veile of ſilence, and to have conteſted with that ſpirit that breathes in them no further, then by ſpeaking to it in a ſecret wiſh, the <hi>Lord rebuke thee.</hi> But I conſide<g ref="char:EOLhyphen"/>red with my ſelfe, that perhaps you might communicate in the nature of ſuch perſons who (as <hi>Solomon</hi> ſaith, <hi>Prov.</hi> 26.5.) are apt (being unanſwered) to be wiſe in their own conceits: and if I ſhall hereby demoliſh or at leaſt weaken this conceit of yours, I preſume I ſhall do you herein a very charitable and Chriſtian peece of ſervice. Think not I am become your enemy, becauſe I tell you the truth: you have injur'd mee no other<g ref="char:EOLhyphen"/>wiſe then by treſpaſſing upon your own credit, and by making thereby a ſad breach in that holy profeſſion, wherein you ſtand ingaged with my ſelfe. Whatever your intentions were, I conceive you have done me no more wrong in clapping the title of an <hi>Independent Proſelyte</hi> upon my back, then <hi>Pilate</hi> did to Chriſt in affix<g ref="char:EOLhyphen"/>ing this Superſcription over his head, <hi>This is the King of the Jews.</hi> I think this name to be full as honourable, as that of a <hi>poore and unworthy Presbyterian,</hi> wherewith you have pleaſed to baptize your ſelfe: and conceive that herein only you have followed your owne, or rather the Apoſtles counſell, <hi>in honour to preferre others be<g ref="char:EOLhyphen"/>fore your ſelfe.</hi> But had you been minded to ſuppreſſe your name, your very Dialect had been enough to betray you: Me thinkes you write juſt like ſuch a one as you ſay you are. Did I not hope for better things from the hands of more worthy Presbyterians, your unworthy dealing had ſet me offten degrees further from your way, then I now ſtand: But I will not take the advantage of your, or any mans miſdemeanor, though more groſſe and abſurd then yours, to render Presbytery odious to the world: To cloath any opinion or practice with the garments of mens perſonall diſtempers, thereby to fall upon them and beat them with the more applauſe, is a method which I as much abhorre, as the <hi>Gentleman</hi> you admire, delights in: and if this property in him were one of thoſe beauty-ſpots, which raviſh't you into a paſſionate adoration of him, you need not feare, that ever I ſhould become your corrivall: And yet I love and honour Mr. <hi>Pry<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> for what ever you can finde lovely and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:172377:2"/>neath the line of a man, is to make him and my ſelfe obnoxious to the wrath of God, and the ſcorn of man. I acknowledge that for a time he ran well, but who hindred him? queſtionleſſe <hi>He</hi> who is ever and anon hin<g ref="char:EOLhyphen"/>dring the Saints in the race of holineſſe. The Prince of darkneſſe owed him a fall for his ſharpe conteſting with his prime agents, and now hee hath pay'd his debt; but if Mr. <hi>Prynn</hi> will bee rul'd by the advice of his beſt friends, hee may riſe again to his greater glory, and notwithſtanding his fall, triumph over the envy and malice of the devill. Concerning Mr. <hi>John Goodwin,</hi> (over whom you ſhake the rod of your reproofe, as if hee were one of your Schollers) I could ſpeak as high and excellent <hi>Encomiums,</hi> as you have ſpoken of your <hi>precious Gentleman;</hi> I could compare him even with Mr. <hi>Prynn</hi> himſelfe: but ſuch a compariſon as this, would bee to mee moſt odious. I could tell you what hee hath done, what hee hath writ, how deeply hee hath ſuf<g ref="char:EOLhyphen"/>fer'd from unreaſonable men; yea, I could give you ſuch a lively and bright deſcription of him, as would da<g ref="char:EOLhyphen"/>zell your eyes to look upon, and make you bluſh for ſhame to have grapl'd with ſuch a perſon as hee is, upon ſuch rude and unmannerly termes as you have done. For you, who are but a <hi>Teacher of boyes,</hi> ſo haughtily to correct a <hi>great Maſter in Iſrael,</hi> is ſuch an abſurdity, as cannot but rend a more patient ſoule then mine, into diſdain and griefe. Tis a wonder to me, that, whereas at the beginning of your Letter, you confeſſe your ſelfe to bee but a <hi>poore and unwrothy Presbyterian,</hi> you ſhould ſo far forget your ſelfe, before you come halfe way, as to take upon you, like the Dr. of the Chaire; and to cenſure the beſt of men and wayes with as much confidence, as if your pen had dropt the Votes of a Generall Aſſembly with its inke. Had a poore and un<g ref="char:EOLhyphen"/>worthy Independent done the like, you would have caſt his boldneſſe into a Baſiliske, and us'd it to batter down the way of his profeſſion, and to lay the glory of it even with the ground. But I well perceive, though you have ſcap't the <hi>ſnare of guifts and parts</hi> (in which you feare Mr. <hi>Goodwin</hi> is taken) yet you are falne into the pit, not of divine, but naturall ſimplicity; and have verifyed the old Proverb, A raſh mans boult is ſoon ſhot. As for that Book of Mr. <hi>Goodwins,</hi> call'd <hi>Innocency and Truth triumphing together,</hi> though you are plea<g ref="char:EOLhyphen"/>ſed to triumph over both, and to caſt it out as an Arch rebell to reaſon and morallity, yet (I muſt tell you) it hath found joyfull and bountifull entertainment in the judgements of ſober and intelligent men: But certain<g ref="char:EOLhyphen"/>ly, it was the unhappineſſe of this Treatiſe to fall into your hands, when you ſtood upon the Mount of Mr. <hi>Prynns</hi> honour, and when the viſion of his transfiguration wrought ſo ſtrongly in you, that you did not wot, what you ſpake, no, nor what you did neither, for you laid about you with ſuch regardleſſe fury that you broke the head of your friend <hi>Priſcian,</hi> [<hi>The words in the written Coppy of your Letter, are theſe, and thus ſpell'd</hi> qui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n alterum paratus eſt dicere, ipſum vicio careat oporte, <hi>as may appeare from the originall in Mr.</hi> Goodwins <hi>cuſto<g ref="char:EOLhyphen"/>dy. But it ſeems the Corrector being the better Grammarian transform'd them into good Latine in the Printed Copy.</hi>] of whoſe ſafety men of your <hi>profeſſion,</hi> ſhould bet moſt tender. I thought to have argued the caſe with you, whether your exceptions againſt this Treatiſe and its Authour, will hold in the Court of Reaſon and equity: but perhaps you are not ſo well skill'd in the rules of this Court; and I am loath to take the advantage of you. I ſhall only propound a few Querees, peradventure the ſtruglings of your thoughts to give them ſatisfaction, may diſſolve the inchantment that is now upon you. What perſons did ever moſt <hi>Learnedly declare Mr.</hi> Good<g ref="char:EOLhyphen"/>win <hi>to bee juſtly cenſured for Socinianiſme?</hi> When, or in what <hi>publique</hi> place did they make this Declaration? How call you that Brother of his, who will <hi>juſtifie</hi> againſt him the charge <hi>of holding a moſt damnable opinion a<g ref="char:EOLhyphen"/>bout juſtifying faith?</hi> I ſuppoſe you muſt ſtrain, not ſo much your memory as your invention, in ſhaping your anſwer: You had done well to remember, that though <hi>Fooles</hi> (as <hi>Solomon</hi> ſpeaks) <hi>beleeve every thing;</hi> yet <hi>wiſe</hi> men will queſtion ſuch aſſertions as theſe: Alas <hi>(Sir)</hi> the beſt courſe you can run to game credit with the prudent, is to cut your allegations and your proofes, juſt of one and the ſame length: To cloath large and broad ſayings with curtaild Arguments, reflects as much ſhame upon ſuch ſayings, and him that ſpeakes them, as <hi>Hanun</hi> did upon the ſervants of <hi>David,</hi> in cutting off their Garments to their buttocks. You can<g ref="char:EOLhyphen"/>not but know, how that many grave, ſober, godly, and learned men have falne into that <hi>way</hi> you call <hi>Inde<g ref="char:EOLhyphen"/>pendency.</hi> Now, your onely method, to have brought over theſe to your party, and to have fill'd their mouths with the cry of a confederacy againſt this <hi>way,</hi> had been this; not barely to have affirm'd it to bee a <hi>novell</hi> and <hi>diſturbant way</hi> (as you have done) but to have poys'd the lightneſſe of your affirmation, with the weight and ſubſtance of a demonſtration. I aſſure you (Sir) (what ever you may thinke) I approve of <hi>this way</hi> no further then I ſee the footſteps of thoſe <hi>ſweet ſiſters, Truth</hi> and <hi>Peace</hi> Printed in it: I have narrowly view'd it, and I can finde no drops of blood, no ſtrewings of the liberties, eſtates, names, comforts of the Saints ſcattered in it, and yet ſome Travellers affirme, they have ſeen ſuch things as theſe in that <hi>way,</hi> which the ignorance of thouſands luſts after. But to conclude. I beſeech you (Sir) bee more watchfull over the extravagancies of your tongue and pen for the future: ſince you are (in part) acquainted with their infirmities, let it be your wiſdome to ſeek their cure. I reverence you for your age, piety, and ſome ſervices you have done to the Publique; and I ſhould rejoyce to ſee ſuch an ancient ſtander in the garden of God <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s you are, carrying your hoary head with honour to the grave: which that you may doe, as I have (you ſee) in part indeavoured, ſo I ſhall further proſecute with my prayers to him, who is able to keepe you to the end: in whom (though I am unknown to you) yet with all ſincerity I profeſſe my ſelfe,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>February</hi> 3. 1644.</date>
+               </dateline>
+               <salute>
+                  <hi>Sir, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
